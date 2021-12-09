@@ -1,6 +1,6 @@
 # basic-auth-generator
 
-a quick and dirty npm cli tool to help you generate a *basic authentication* (base64)
+a quick and dirty npm cli tool to help you generate a *basic authorization* (base64)
 
 ### usage
 ```bash
