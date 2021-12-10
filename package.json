@@ -1,7 +1,7 @@
 {
   "name": "generate-basic-auth",
-  "version": "1.0.1",
-  "description": "a quick and dirty basic authetication cli generator",
+  "version": "1.0.2",
+  "description": "a quick and dirty basic authorization cli generator",
   "main": "index.js",
   "bin": "index.js",
   "scripts": {
